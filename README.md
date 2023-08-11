@@ -1,8 +1,3 @@
 # Data_Analysis--Hotel_Booking
 
-• This project is made by using Python & it’s various libraries.
-• After Analyzing, we identified the root cause of the problem which was the 
-high amount of cancellations among hotel bookings & we’ve even provided 
-suggestions which might be helpful to avoid this.
-• Data Exploration, Data Cleaning & Data Visualizations were some of the key 
-elements or steps here before arriving into the final conclusions
+The problem statement here was, city & resort hotels have seen high cancellation rates. This is leading to less revenue & less than ideal room use. Hypothesis is, more cancellations occur when prices are high & when there is a longer waiting list. For this analysis, Python & libraries(NumPy, Pandas, MatPlotLib, SeaBorn) were used. After importing the CSV file, cleaning was needed for the raw data to become fit to draw insights for visualizations. Analysis, Cleaning & Visualizations were some of the key steps & we even provided solutions to the problem mentioned above.
